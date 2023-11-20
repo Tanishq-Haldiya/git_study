@@ -1,1 +1,1 @@
-# git_study
+# Learning How to use Git
